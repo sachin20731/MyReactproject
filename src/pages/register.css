@@ -1,0 +1,86 @@
+
+
+
+
+
+
+ 
+  
+  
+  .background1 {
+    
+    background-color: #53d5b9;
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Register container */
+  .register-container {
+    background-color: #e0ddddf9; 
+    padding: 30px;
+    border-radius: 60px;
+    width: 500px; /* Adjust width as needed */
+   
+  }
+  
+  /* Header */
+  .header-register {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Input fields and labels */
+  .box1 {
+    margin-bottom: 25px;
+  }
+  
+ 
+  
+  input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    height: 50px;
+    text-align: center;
+  }
+  
+  /* Button */
+ 
+button {
+    background-color:  #222ba5; 
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    width: 500px;
+    height: 50px;
+   
+  }
+
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .link-to-register{
+    font-size: 18px;
+    margin-left: 10px;
+    font-weight: bold;
+  }
+
+
+ 
